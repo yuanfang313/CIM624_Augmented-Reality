@@ -38,6 +38,20 @@ The story that traditionally stored in a 2d media will gain a form that having m
 - Final demo;
 ```
 
-
-
 ## 1-2. Briefly explain why did you want to make this project?
+
+说实话，这个作品是为我自己而做的。
+在这个故事中出现的两个重要元素 --飞船和鸟 -- 都是我的最爱。
+
+— 巨大的帆船行驶在月光下的云海上，这个景象萦绕在我的心上至少有十年了。
+  我也不知道重现这个场景对我的读者是否产生意义，但是这对我而言具有非比寻常的意义。
+  
+— 鸟对我而言，是完全不同于其他生物的一种生灵：
+  因为它会飞。
+  
+  
+  
+
+
+
+
