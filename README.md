@@ -3,7 +3,7 @@ My documentation of CIM624_Augmented Reality, 2019 Spring
 
 # Midterm Project_The Birds on Earth
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Midterm_01.gif?raw=true)
+![](https://github.com/yuanfang313/CIM624_Augmented-Reality/blob/master/Assets/Cover.png?raw=true)
 
  ## 1-1. Proposal
  
