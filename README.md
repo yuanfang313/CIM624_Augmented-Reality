@@ -39,15 +39,40 @@ The story that traditionally stored in a 2d media will gain a form that having m
 ```
 
 ## 1-2. Briefly explain why did you want to make this project?
-
-说实话，这个作品是为我自己而做的。
-在这个故事中出现的两个重要元素 --飞船和鸟 -- 都是我的最爱。
-
-— 巨大的帆船行驶在月光下的云海上，这个景象萦绕在我的心上至少有十年了。
-  我也不知道重现这个场景对我的读者是否产生意义，但是这对我而言具有非比寻常的意义。
   
-— 鸟对我而言，是完全不同于其他生物的一种生灵：
-  因为它会飞。
+  To some extents, I truely believe that the behavior, flying, per se can inspire people.
+  
+  I clearly know that there are many people living in quiet desperation. 
+  
+  The objectives of all my works till now were the same, which is letting these people finding the faith of life again. 
+  
+  ### 1-2-1. Who are the stakeholders?
+
+Any human beings.
+
+
+### 1-2-2. Find 3 inspiring projects
+
+
+ ### [How to Train Your Dragon Series]
+
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation01_journey.png?raw=true)
+  
+  &nbsp;
+  
+### [Arrival]
+
+#### 01. TreeSense
+http://www.qianyedan.com/treesense#angl-video
+
+#### 02. MIT Media Lab_If you were a tree
+https://www.media.mit.edu/posts/tree-treesense/
+
+  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation02_Tree.png?raw=true)
+  
+  &nbsp;
+  
+
   
   
   
