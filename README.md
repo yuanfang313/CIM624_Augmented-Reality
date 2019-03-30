@@ -56,21 +56,21 @@ Any human beings.
 
  ### [How to Train Your Dragon Series]
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation01_journey.png?raw=true)
+![](https://github.com/yuanfang313/CIM624_Augmented-Reality/blob/master/Assets/Insperation01_How%20to%20Train%20Your%20Dragon.jpg?raw=true)
   
   &nbsp;
   
 ### [Arrival]
 
-#### 01. TreeSense
-http://www.qianyedan.com/treesense#angl-video
-
-#### 02. MIT Media Lab_If you were a tree
-https://www.media.mit.edu/posts/tree-treesense/
-
-  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation02_Tree.png?raw=true)
+  ![](https://github.com/yuanfang313/CIM624_Augmented-Reality/blob/master/Assets/Inspiration02_Arrival.png?raw=true)
   
   &nbsp;
+  
+### [One Piece__Sky Island Saga]
+
+  ![](https://github.com/yuanfang313/CIM624_Augmented-Reality/blob/master/Assets/Inspiration03_One%20Piece_Sky%20Island%20Saga1.png?raw=true)
+  
+  
   
 
   
